@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+# ignore pindex project
+pindex/
+
+# ignore jupyter notebook temporary data
+.ipynb_checkpoints
